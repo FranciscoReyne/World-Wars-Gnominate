@@ -86,4 +86,5 @@ Una vez que tengamos los datos, podemos avanzar al desarrollo en Python.
 
 Este modelo conceptual y teórico está listo para pasar a la fase de implementación.
 
-ir a Parte 2: Implementación.
+ir a Parte 2: Analisis del problema.
+ir a Parte 3: Implementación en python.
