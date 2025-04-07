@@ -2,7 +2,7 @@
 
 por FranciscoReyne
 
-
+¡ATENCION!: Este proyecto se encuentra en desarrollo o construcción. Como siempre, se aceptan comentarios y mejoras. 
 ---
 # Código basico para un gnominate en python.
 
