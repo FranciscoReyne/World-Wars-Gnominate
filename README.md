@@ -2,10 +2,27 @@
 
 por FranciscoReyne
 
-## Modelo conceptual y teórico de un sistema de "gnominate" para representar guerras en el mundo.
+
+---
+# Código basico para un gnominate en python.
+
+
+Código en Python corto para realizar un análisis básico de votos usando `gnominate`, asumiendo que tenemos datos en formato CSV y usamos la biblioteca `nominate`:
+
+```python
+import pandas as pd
+from nominate import gnominate
+
+data = pd.read_csv("votos.csv")
+gnominate(data.iloc[:, 1:], dims=2).plot()
+```
+
+Este código va a cargar los datos desde un archivo CSV, ejecuta el análisis `gnominate` con dos dimensiones y genera un gráfico. Para un análisis más detallado, podrías ajustar los parámetros según tu contexto.
 
 
 ---
+
+## Modelo conceptual y teórico de un sistema de "gnominate" para representar guerras en el mundo.
 
 
 Detalles del modelo conceptual y teórico de un sistema de "gnominate" para representar guerras en el mundo, teniendo en cuenta tanto la economía política como la programación en Python.
