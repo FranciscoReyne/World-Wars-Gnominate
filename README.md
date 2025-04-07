@@ -101,7 +101,23 @@ Una vez que tengamos los datos, podemos avanzar al desarrollo en Python.
 
 ---
 
-Este modelo conceptual y teórico está listo para pasar a la fase de implementación.
+### Proximas innovaciones:
+Este modelo conceptual y teórico está listo para pasar a la fase de implementación. Sin embargo, para agregarle innovación al problema, es posible utilizar modelos de aprendizaje profundo para aproximar el análisis de `gnominate`. Aunque `gnominate` es un método clásico basado en reducción de dimensiones para analizar patrones de votación, podriamosas emplear redes neuronales para encontrar estructuras similares en datos de votación.
 
-ir a Parte 2: Analisis del problema.
-ir a Parte 3: Implementación en python.
+#### Opciones de Modelado
+1. **Autoencoders**: Estas redes neuronales pueden aprender una representación comprimida de los datos de votación, similar a cómo `gnominate` reduce dimensiones.
+2. **Modelos de aprendizaje por representación**: Algoritmos como `Word2Vec` pueden aprender representaciones de legisladores según su historial de votos, generando una forma de análisis similar.
+3. **Redes Neuronales Recurrentes (RNNs)** o **Transformers**: Pueden identificar patrones de votación a lo largo del tiempo, permitiendo predicciones más avanzadas que `gnominate`.
+
+--- 
+
+# ir a Parte 2: Analisis del problema.
+
+---
+# ir a Parte 3: Implementación en python.
+
+--
+
+Saludos ! :D y buena suerte :P
+
+por Francisco Reyne
