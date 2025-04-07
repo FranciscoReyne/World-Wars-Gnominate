@@ -7,7 +7,7 @@ por FranciscoReyne
 # Código basico para un gnominate en python.
 
 
-Código en Python corto para realizar un análisis básico de votos usando `gnominate`, asumiendo que tenemos datos en formato CSV y usamos la biblioteca `nominate`:
+El siguiente código en Python corto realiza un análisis básico de votos usando `gnominate`, asumiendo que tenemos datos en formato CSV y usamos la biblioteca `nominate`:
 
 ```python
 import pandas as pd
