@@ -1,5 +1,7 @@
 # World Wars Gnominate
 
+Global Wars Nominate
+
 por FranciscoReyne
 
 **¡ATENCION!: Este proyecto se encuentra en desarrollo o construcción. Como siempre, se aceptan comentarios y mejoras.** 
